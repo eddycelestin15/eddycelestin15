@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about web and mobile development, a
 
 ### Technologies & Tools:
 - HTML, CSS, JavaScript
-- React.js
+- React.js (for frontend)
 - Node.js
-- Express.js
+- Express.js (for backend)
 - Python (for machine learning)
 - Flask (for backend)
 - Django
@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I'm passionate about web and mobile development, a
 
 Feel free to explore my repositories and connect with me. Let's create something awesome together! 😄
 
-<!-- Connect with me on social media (optional) -->
+<!-- Connect with me on social media -->
 <!-- [LinkedIn](https://www.linkedin.com/in/rafanomezana-lovanirainy-theogene-eddy-celestin-5011a6271)  -->
