@@ -1,31 +1,49 @@
-# Hi there! 👋 I'm Eddy Celestin
+# 👋 Hi, I'm *Eddy Celestin*
 
-Welcome to my GitHub profile! I'm passionate about web and mobile development, as well as diving into the exciting world of machine learning. Here's a little more about me:
+Developer with a focus on **DevOps** and **Full-Stack Web Development**.  
+I build modern applications using clean architecture, strong backend logic, and reliable frontend interfaces.
 
-- 🔭 I'm currently learning React on SimplyLearn and exploring machine learning through self-study.
-- 🌱 I have a keen interest in developing innovative solutions and staying up-to-date with the latest technologies.
-- 💼 I'm actively seeking collaboration opportunities with like-minded individuals and looking to contribute to interesting projects.
-- 📫 You can reach me via [eddy.celestin.raf@gmail.com](mailto:eddy.celestin.raf@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rafanomezana-lovanirainy-theogene-eddy-celestin-5011a6271).
+### 🧰 Technologies I work with
 
-### Technologies & Tools:
-- HTML, CSS, JavaScript
-- React.js (for frontend)
-- Node.js
-- Express.js (for backend)
-- Python (for machine learning)
-- Flask (for backend)
-- Django
-- Git & GitHub
-- MongoDB (for NoSQL database)
-- MySQL & PostgreSQL (for SQL database)
+- **Backend:** Java Spring Boot, Node.js (Express), Maven  
+- **Frontend:** React, TypeScript, Material UI  
+- **PWA & Offline-First apps:** React + Vite PWA  
+- **Databases:** PostgreSQL, MySQL  
+- **DevOps:** Git, GitHub Actions (CI/CD), environment management  
+- **Automation & Tools:** Python (Pandas, Selenium), scripting, data processing  
+- **Others:** Game experiments with Python (Flet, Ursina)
 
-### Pronouns:
-- He/Him
+---
 
-### Fun Fact:
-- I enjoy exploring new coding challenges and finding creative solutions.
+## 🚀 What I Build
 
-Feel free to explore my repositories and connect with me. Let's create something awesome together! 😄
+I regularly work on projects involving:
 
-<!-- Connect with me on social media -->
-<!-- [LinkedIn](https://www.linkedin.com/in/rafanomezana-lovanirainy-theogene-eddy-celestin-5011a6271)  -->
+- RESTful APIs and backend services  
+- Modern, component-based frontends  
+- Multi-step workflows with role-based access  
+- Progressive Web Apps and offline features  
+- Automation scripts and data processing tools  
+- Prototyping and small game engines in Python  
+
+These are technologies and concepts I practice daily, both personally and professionally.
+
+---
+
+## 📌 Technical Interests
+
+- Backend architecture and code quality  
+- Frontend UI/UX with React + TypeScript  
+- CI/CD and DevOps practices  
+- Automation, security, and optimized workflows  
+- Building tools and internal applications
+
+---
+
+## 📫 Contact
+
+Feel free to explore my repositories or reach out if you want to discuss tech.
+
+---
+
+_Always learning. Always improving._ ✨
